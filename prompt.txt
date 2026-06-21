@@ -1,0 +1,12 @@
+I am a new web developer, and I need you to help me create a personal portfolio website. 
+ The website should have a menu bar with a logo with the name Investor Coder at the top left corner. The menu bar should have navigation items including Home,About,Skills, projects and contact. The menu bar should be sticky. 
+ The hero section should have my name with a good write up,a picture and a call to action button. 
+ Create an ATS friendly resume or cv for me and link it to the call to the action button on the hero section.
+ The about me section should have a good introduction write up about me as an upcoming web developer.
+The skills section should have 4 grid boxes with HTML, CSS, Git and Tailwind CSS taking out the boxes as the skills I have learnt. 
+ The skills boxes should have a good description of what each skill does and hover effects. 
+The project section should have three grid cards each displaying  projects that I have completed with details of the project and tools used to build the project. The project cards should have hover effect, image of the project and description on how the project was developed. 
+The contact section should have a good write up encouraging people to hire me for a web development job. The section should be divided into two sides with one side having my contact details and social media links, and the other side having a form.
+ The website should have a footer section with my social media links. 
+ The website should be mobile responsive and be built with html and css with css having a separate file. 
+ The website should have hover effects at all places necessary.
